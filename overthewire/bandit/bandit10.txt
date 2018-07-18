@@ -1,6 +1,0 @@
-Senha no arquivo data.txt que contém dados encodados base64.
-
-$ base64 -d data.txt
-The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
-
-KEY: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR

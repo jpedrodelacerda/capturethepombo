@@ -1,5 +1,8 @@
+## bandit4 -> 5
+
 Senha em um arquivo 'human-readable' no diretório 'inhere'.
 
+```
 $ for i in {0..9}; do cat inhere/-file0$i; echo; done
 ykC6q▒+▒▒▒z▒C|▒▒▒M▒     ▒rkA▒▒▒▒A
 ▒▒▒▒L▒
@@ -18,5 +21,8 @@ koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ▒▒▒▒&▒▒ڛ▒▒▒[̹2▒▒~!\ ▒▒▒▒▒
 R▒▒
    P▒▒▒к1▒=?G0▒▒▒D▒▒▒Ui,▒W
+   
+```
 
-KEY: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+##### Chave:
+> _koReBOKuIDDepwhWk7jZC0RTdopnAYKh_

@@ -1,8 +1,0 @@
-Senha no arquivo "spaces in this filename".
-
-# cat spaces<tab>
-ou
-# cat "spaces in this filename"
-UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
-
-KEY: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
